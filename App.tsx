@@ -145,7 +145,7 @@ export default function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-5">
           <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-4 mb-5">
             <div>
-              <h1 className="text-2xl sm:text-3xl font-serif font-bold text-stone-800 tracking-tight">聖經閱讀進度調查表</h1>
+              <h1 className="text-2xl sm:text-3xl font-serif font-bold text-red-700 tracking-tight">聖經閱讀進度調查表</h1>
               <p className="text-sm text-stone-500 mt-1 font-light">追蹤您的讀經之旅</p>
             </div>
             
